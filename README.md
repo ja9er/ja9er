@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center"> 
-<img src="https://metrics.lecoq.io/ja9er?template=classic&config.timezone=Asia%2FShanghai">
+<span><img src="https://visitor-badge.glitch.me/badge?page_id=ja9er"/></span>
 <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=github"> 
-<img src="https://visitor-badge.glitch.me/badge?page_id=ja9er" />
+
 </div>
