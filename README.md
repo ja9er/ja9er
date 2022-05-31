@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://metrics.lecoq.io/ja9er?template=classic&config.timezone=Asia%2FShanghai"> </div>
 -->
 
-<div align="center"> 
+<div align="center">
+  
 <span><img src="https://visitor-badge.glitch.me/badge?page_id=ja9er"/></span>
+ <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ja9er&layout=compact&hide_border=true&langs_count=10"></p>
 <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=github"> 
 
 </div>
