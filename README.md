@@ -1,4 +1,4 @@
-### Hi there 👋
+### Wellcome to my github👋
 
 <!--
 **ja9er/ja9er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <div align="center"> <img src="https://metrics.lecoq.io/ja9er?template=classic&config.timezone=Asia%2FShanghai"> </div>
+-->
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula"> </div>
