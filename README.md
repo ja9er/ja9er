@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
 - 🎈 website <a href="">aHR0cHM6Ly9qYTllci5naXRodWIuaW8v</a>
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=github&custom_title=我的躺平线&hide_border=true"> 
+  <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=github&custom_title=%11%84%ba%73%bf&hide_border=true"> 
 </div>
