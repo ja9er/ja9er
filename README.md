@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <div align="center"> 
   
 <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula"> 
-<img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=ja9er" />
 </div>
