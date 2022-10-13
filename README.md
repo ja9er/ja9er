@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <img width="400px" height="170px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ja9er&layout=compact&hide_border=true&langs_count=10"> 
 
--- 📙 A beginner about cybersecurity
+-- 📙 A beginner of cybersecurity
   
 -- 💪 learning: Python/Golang 
   
