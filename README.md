@@ -32,4 +32,6 @@ Here are some ideas to get you started:
 
   <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark&custom_title=%E8%BA%BA%20%20%E5%B9%B3&hide_border=true"> 
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ja9er&show_icons=true&theme=radical)
 	
