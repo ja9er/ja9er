@@ -10,6 +10,6 @@
 -- 💪 learning: Python/Golang <br>
 -- 🎈 website <a href="">aHR0cHM6Ly9qYTllci5naXRodWIuaW8v</a><br>
 </div>
-    <div id="div1" ><img style="display:block;border:0px;padding:0px;float:left;width:40%" src="https://github-readme-stats.vercel.app/api?username=Ja9er&show_icons=true&theme=radical">
-    <img style="width:60%" src="https://activity-graph.herokuapp.com/graph?username=ja9er&theme=react-dark&custom_title=%E8%BA%BA%20%20%E5%B9%B3&hide_border=true"></div>
+    <div id="div1" ><img style="display:block;border:0px;padding:20px;float:left;width:90%;" src="https://github-readme-stats.vercel.app/api?username=Ja9er&show_icons=true&theme=radical">
+    <img  src="https://activity-graph.herokuapp.com/graph?username=ja9er&theme=react-dark&custom_title=%E8%BA%BA%20%20%E5%B9%B3&hide_border=true"></div>
 </div>
