@@ -12,7 +12,7 @@
 </div>
 <div>
 <img style='width:600px; float:left' src="https://github-readme-stats.vercel.app/api?username=Ja9er&show_icons=true&theme=radical">
-<img style='width:100%; float:right;margin-left:-6px' src="https://activity-graph.herokuapp.com/graph?username=ja9er&theme=react-dark&custom_title=%E8%BA%BA%20%20%E5%B9%B3&hide_border=true">
+<!-- <img style='width:100%; float:right;margin-left:-6px' src="https://activity-graph.herokuapp.com/graph?username=ja9er&theme=react-dark&custom_title=%E8%BA%BA%20%20%E5%B9%B3&hide_border=true"> -->
     
 </div>
 </div>
